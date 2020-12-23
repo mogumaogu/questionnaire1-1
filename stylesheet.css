@@ -11,3 +11,6 @@ table.image  {
   margin-right: auto; 
 }
 
+table.image  td  {
+  text-align:center; 
+}
